@@ -15,7 +15,7 @@ A powerful browser extension for Google Chrome and Brave designed to give you co
 
 Since this is a beta version, you will need to install it manually using Chrome or Brave's Developer Mode.
 
-1. Download the extension package: `mybb-super-filter-beta.zip`.
+1. Download the extension package: `mybb-super-filter-dev.zip`.
 2. Extract the contents of the zip file to a dedicated folder on your computer.
 3. Open your browser and navigate to the extensions page:
    * **Chrome:** Type `chrome://extensions/` in the address bar and press Enter.
